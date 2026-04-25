@@ -1,6 +1,4 @@
 # Bỏ qua dữ liệu (chỉ giữ lại file .gitkeep để giữ cấu trúc thư mục)
-data/*
-!data/**/.gitkeep
 *.csv
 *.xlsx
 *.parquet
