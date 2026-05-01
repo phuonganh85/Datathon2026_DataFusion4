@@ -219,11 +219,11 @@ assert 'COGS'    not in COGS_FEATS_TEST
 
 ---
 
-## Ràng buộc tuân thủ
+## Yêu cầu tuân thủ
 
-- ✅ Không sử dụng Revenue/COGS từ tập test làm đặc trưng
-- ✅ Không sử dụng dữ liệu ngoài bộ dữ liệu được cung cấp (`lunardate` là thư viện tính toán, không phải dữ liệu ngoài)
-- ✅ Mã nguồn đầy đủ, kết quả có thể tái lập với `SEED=42` và `best_params.json`
+-  Không sử dụng Revenue/COGS từ tập test làm đặc trưng
+-  Không sử dụng dữ liệu ngoài bộ dữ liệu được cung cấp (`lunardate` là thư viện tính toán, không phải dữ liệu ngoài)
+-  Mã nguồn đầy đủ, kết quả có thể tái lập với `SEED=42` và `best_params.json`
 
 ---
 
