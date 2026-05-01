@@ -1,0 +1,14 @@
+# Bỏ qua dữ liệu (chỉ giữ lại file .gitkeep để giữ cấu trúc thư mục)
+*.csv
+*.xlsx
+
+# Bỏ qua các file mô hình nặng
+*.pkl
+*.h5
+*.model
+
+# Bỏ qua các file hệ thống và cache của Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
