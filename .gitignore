@@ -1,7 +1,6 @@
 # Bỏ qua dữ liệu (chỉ giữ lại file .gitkeep để giữ cấu trúc thư mục)
 *.csv
 *.xlsx
-*.parquet
 
 # Bỏ qua các file mô hình nặng
 *.pkl
